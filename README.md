@@ -1,17 +1,20 @@
-Docente: Muñoz Lautaro Gabriel
-Fecha: 16/09/2025
+
 Ejercicio integral:
 
 Se requiere de un desarrollo que nos ayude a administrar nuestras instancias de computadores virtuales en la nube.
 Se requiere almacenar la siguiente información:
+
 Nombre.
 •	Versión.
 •	Sistema operativo.
 •	Estado.
+
 Las instancias se deben de poder levantar (cambiar el estado a 1 o “up”) y bajar (estado en 0 o “down).
 Dichas instancias pueden tener múltiples finalidades, pero para facilitar su manejo, vamos a clasificarlas en:
+
 •	De proceso de datos.
 •	De Aplicación.
+
 Las de proceso son instancias que nos permitirán realizar procesos, por ejemplo, clonar bases de datos, filtrarlas y almacenarlas dentro de otra por lo que queremos almacenar:
 Datos de origen.
 Datos de fin.
@@ -25,5 +28,6 @@ Al momento de “levantar” la instancia debe confirmar que se ha instalado el 
 
 
 Se necesita instanciar al menos dos maquinar virtuales de cada tipo dentro de un arreglo de maquinas virtuales para poder levantarlas y bajarlas en simultaneo, y que cada clase realice el proceso almacenado independientemente.
+
 
 
