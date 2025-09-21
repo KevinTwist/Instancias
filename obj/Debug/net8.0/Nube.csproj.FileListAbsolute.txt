@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\bin\Debug\net8.0\Nube.exe
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\bin\Debug\net8.0\Nube.deps.json
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\bin\Debug\net8.0\Nube.runtimeconfig.json
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\bin\Debug\net8.0\Nube.dll
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\bin\Debug\net8.0\Nube.pdb
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.AssemblyInfo.cs
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.dll
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\refint\Nube.dll
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.pdb
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\Nube.genruntimeconfig.cache
+C:\Users\kevin\Desktop\TOP MASS\Cuatrimestre 2\Desarrollo de Sistemas Orientado a Objetos\GIT\Nube\obj\Debug\net8.0\ref\Nube.dll
